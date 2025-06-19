@@ -1,3 +1,5 @@
+![Phurten's Logo](./10-logo.svg)
+
 # “Design is how it works.” – Steve Jobs
 
 ### Hi, I’m Phurten Jang  
@@ -19,9 +21,9 @@ Currently studying **Web Development** and bringing over 2 years of experience a
 ---
 
 ### 🧠 What I Value
-- ✦ Simplicity over flash  
-- ✦ Function over feature  
-- ✦ Story over code  
+ ✦ Simplicity over flash  
+ ✦ Function over feature  
+ ✦ Story over code  
 
 ---
 
@@ -34,7 +36,8 @@ Currently studying **Web Development** and bringing over 2 years of experience a
 
 ### 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/phurten-jang-sherpa-b42955250/))  
-📧 [phurtenjangsherpa@example.com](mailto:phurtenjangsherpa@example.com)  
+[![Dribbble](https://img.shields.io/badge/-Dribbble-pink?logo=dribbble&style=flat-square)](https://dribbble.com/phur10jang)
+📧 [phurtenjangsherpa@gmail.com](mailto:phurtenjangsherpa@gmail.com)  
 🌐 Portfolio: *Coming Soon*
 
 ---
