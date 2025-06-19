@@ -1,16 +1,47 @@
-## Hi there 👋
+# “Design is how it works.” – Steve Jobs
 
-<!--
-**Phurten/Phurten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I’m Phurten Jang  
+*Front-End Developer & UI/UX Designer — Toronto, Canada*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design with empathy and build with intention.  
+Currently studying **Web Development** and bringing over 2 years of experience as a **UI/UX designer**. I build responsive, clean, and user-first experiences that blend form with function. Modern animated websites that makes people move.
+
+---
+
+### 🔭 Now
+- Learning: JavaScript DOM, responsive frameworks  
+- Designing: Concept UI kits in Figma  
+- Building: A minimalist blog site & portfolio  
+- Reading: *Creative Selection* by Ken Kocienda (Apple’s UX approach)
+
+---
+
+### 🧠 What I Value
+- ✦ Simplicity over flash  
+- ✦ Function over feature  
+- ✦ Story over code  
+
+---
+
+### 🛠 Tools of My Trade
+| Code | Design |
+|------|--------|
+| HTML · CSS · JavaScript | Figma · Photoshop · Illustrator · XD |
+
+---
+
+### 📫 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/phurten-jang-sherpa-b42955250/))  
+📧 [phurtenjangsherpa@example.com](mailto:phurtenjangsherpa@example.com)  
+🌐 Portfolio: *Coming Soon*
+
+---
+
+### 📊 GitHub Stats
+<details>
+  <summary>Click to expand</summary>
+
+  ![Phurten's GitHub stats](https://github-readme-stats.vercel.app/api?username=phurten&show_icons=true&theme=gruvbox&hide_title=true)
+</details>
